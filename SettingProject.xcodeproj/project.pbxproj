@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		724A266B2BFF2D6900A79F1B /* SettingTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 724A266A2BFF2D6900A79F1B /* SettingTableViewController.swift */; };
+		724A26752C00775D00A79F1B /* ShopListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 724A26742C00775D00A79F1B /* ShopListTableViewController.swift */; };
+		724A26772C007A4100A79F1B /* ShopListTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 724A26762C007A4100A79F1B /* ShopListTableViewCell.swift */; };
 		727CB0CC2BFF27A7008069A2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 727CB0CB2BFF27A7008069A2 /* AppDelegate.swift */; };
 		727CB0CE2BFF27A7008069A2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 727CB0CD2BFF27A7008069A2 /* SceneDelegate.swift */; };
 		727CB0D02BFF27A7008069A2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 727CB0CF2BFF27A7008069A2 /* ViewController.swift */; };
@@ -18,6 +20,8 @@
 
 /* Begin PBXFileReference section */
 		724A266A2BFF2D6900A79F1B /* SettingTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingTableViewController.swift; sourceTree = "<group>"; };
+		724A26742C00775D00A79F1B /* ShopListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopListTableViewController.swift; sourceTree = "<group>"; };
+		724A26762C007A4100A79F1B /* ShopListTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopListTableViewCell.swift; sourceTree = "<group>"; };
 		727CB0C82BFF27A7008069A2 /* SettingProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SettingProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		727CB0CB2BFF27A7008069A2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		727CB0CD2BFF27A7008069A2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +66,8 @@
 				727CB0CD2BFF27A7008069A2 /* SceneDelegate.swift */,
 				727CB0CF2BFF27A7008069A2 /* ViewController.swift */,
 				727CB0D12BFF27A7008069A2 /* Main.storyboard */,
+				724A26762C007A4100A79F1B /* ShopListTableViewCell.swift */,
+				724A26742C00775D00A79F1B /* ShopListTableViewController.swift */,
 				724A266A2BFF2D6900A79F1B /* SettingTableViewController.swift */,
 				727CB0D42BFF27A8008069A2 /* Assets.xcassets */,
 				727CB0D62BFF27A8008069A2 /* LaunchScreen.storyboard */,
@@ -142,8 +148,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				724A266B2BFF2D6900A79F1B /* SettingTableViewController.swift in Sources */,
+				724A26772C007A4100A79F1B /* ShopListTableViewCell.swift in Sources */,
 				727CB0D02BFF27A7008069A2 /* ViewController.swift in Sources */,
 				727CB0CC2BFF27A7008069A2 /* AppDelegate.swift in Sources */,
+				724A26752C00775D00A79F1B /* ShopListTableViewController.swift in Sources */,
 				727CB0CE2BFF27A7008069A2 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
